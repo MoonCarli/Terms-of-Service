@@ -11,7 +11,7 @@ These Terms and Conditions govern your use of the Service and establish the agre
 
 Your access to and use of the Service also require your acceptance of and adherence to the Company's Privacy Policy. Our Privacy Policy details our practices concerning the collection, use, and disclosure of your personal information when you use the Application. It informs you about your privacy rights and how the law protects you. Please carefully review our Privacy Policy before using our Service.
 
-## 4. How can i delete my data
+## 4. How can you request deletion of your data
 To request deletion of your data, please contact us in [Support Server](https://discord.gg/wqTgHeJ4Ku) or directly message the bot developer and owner Moon Carli.
 
 ## Contact Us
