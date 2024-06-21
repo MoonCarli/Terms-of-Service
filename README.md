@@ -3,7 +3,7 @@
 ## 1. Overview
 These Terms govern the use of Moon Music and any other related Agreement or legal relationship with the Owner in a legally binding way. Capitalized terms are defined in the relevant dedicated section of this document. The User must read this document carefully.
 
-## 2. Personal Data We Collect}
+## 2. Personal Data We Collect
 Moon Music doesn't store your messages. and your personal informations. We only save the guilds settings in a protected database.
 
 ## 3. Acknowledgment
