@@ -9,7 +9,7 @@ Please review these Terms carefully, as they include important information regar
 ## 2. Data Collection and Usage
 Moon Music values your privacy. We do not store user messages or personal information beyond what is necessary for the bot’s functionality. We collect and store only essential data, such as:
 
-- Server IDs to manage server-specific settings, including custom prefixes, 24/7 playback, and other configurations.
+- Server IDs to manage server-specific settings, including custom prefixes, 24/7 command, and other configurations.
 - User IDs to provide premium features and other functionalities requiring user identification.
 - Spotify profile URLs for users who link their Spotify accounts to enable specific features.
 
