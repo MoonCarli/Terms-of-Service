@@ -1,5 +1,5 @@
 # Moon Music Terms and Conditions
-### Last Updated: October 10, 2024
+### Last Updated: November 12, 2024
 
 ## 1. Introduction
 These Terms and Conditions ("Terms") govern your access and use of the Moon Music bot ("Service") and form a legally binding agreement between you ("User") and the Service owner ("Company"). By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Service.
