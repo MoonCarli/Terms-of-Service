@@ -1,5 +1,5 @@
 # Moon Music Terms of Service  
-**Last Updated:** May 15, 2025
+**Last Updated:** July 20, 2025
 
 Welcome to Moon Music! These Terms of Service ("Terms") govern your use of the Moon Music bot ("Service"), including both the free and premium versions, and form a legally binding agreement between you ("User") and the developer ("we", "us", or "our").  
 
@@ -8,113 +8,116 @@ By using the Service, you agree to comply with these Terms. If you do not agree 
 ---
 
 ## 1. Eligibility & Acceptance  
-- You must be at least 13 years old (or the minimum age of digital consent in your jurisdiction) to use the Service.  
-- By accessing or using the bot, you accept these Terms and our [Privacy Policy](https://github.com/MoonCarli/Privacy-Policy), and agree to comply with all applicable local and international laws.  
+- You must be at least **13 years old** (or the minimum age in your jurisdiction) to use the Service.  
+- By accessing or using the bot, you accept these Terms and our [Privacy Policy](https://github.com/Moon-Music-Bot/Privacy-Policy/blob/main/README.md), and agree to comply with all applicable local and international laws.  
 - Use of the bot is subject to Discord’s [Terms of Service](https://discord.com/terms).
 
 ---
 
 ## 2. Data Collection & Privacy  
-Moon Music collects limited data strictly for functionality purposes. This includes:  
-- **Guild IDs** – for storing server-specific settings (prefixes, 24/7 status, etc.)  
+We collect only the minimum data necessary to provide functionality. This includes:  
+- **Guild IDs** – for storing server-specific settings (prefixes, 24/7 mode, etc.)  
 - **User IDs** – for premium access, personal settings, and feature tracking  
-- **Spotify Profile URLs** – only if voluntarily linked for playback features
+- **Spotify Profile URLs** – only if voluntarily linked for playback features  
 
-We do **not** collect Discord messages, emails, usernames, or sensitive personal data. For full details, refer to our [Privacy Policy](https://github.com/MoonCarli/Privacy-Policy).
+We do **not** collect Discord messages, emails, usernames, or sensitive personal data. For full details, please see our [Privacy Policy](https://github.com/Moon-Music-Bot/Privacy-Policy/blob/main/README.md).
 
 ---
 
 ## 3. Service Access  
-Moon Music offers both free and paid (premium) access. Free features are available to all users, while premium features require an active subscription. Details of available features are published on our [Patreon](https://www.patreon.com/) and may change over time.
+Moon Music offers free and **premium** access. Premium features require an active subscription. Features available may change over time; current details are listed on our [Patreon](https://patreon.com/moonprime/join).
 
 ---
 
 ## 4. Premium Terms
 
 ### 4.1 Payments & Refunds  
-- All payments are **final and non-refundable**, except for valid refund requests made **within 24 hours** of purchase.
-- Payments are securely processed via [Patreon](https://www.patreon.com/), and we do **not** store your card or billing information.  
-- Unauthorized chargebacks or disputes may result in a **permanent ban** from bot.
+- All payments are **final and non-refundable**, except for valid refund requests made **within 24 hours** of purchase.  
+- Payments are securely processed via [Patreon](https://www.patreon.com/). We do **not** store your card or billing information.  
 
 ### 4.2 Use & Abuse  
-- Premium access is **non-transferable** and may not be shared, sold, or redistributed
-- Abusing premium features (e.g. bot farms, multi-server abuse, automation) will result in termination without refund.  
+- Premium access is **non-transferable** and may not be shared, sold, or redistributed.  
 - We reserve the right to modify, add, or remove premium features at any time.
 
 ---
 
 ## 5. Service Availability & Modifications  
-- Moon Music is provided **"as-is"** and **"as-available"**. We do not guarantee uninterrupted access or error-free operation.  
-- The bot may undergo maintenance, updates, or be discontinued at any time.  
-- Major feature changes or pricing updates will be announced via our [Support Server](https://discord.gg/wqTgHeJ4Ku).
+- The Service is provided **"as-is"** and **"as-available"**. We do not guarantee uninterrupted or error-free operation.  
+- Maintenance, updates, or full discontinuation may occur at any time.  
+- Major updates or pricing changes will be announced via our [Support Server](https://discord.gg/wqTgHeJ4Ku).
 
 ---
 
 ## 6. User Conduct  
 You agree to:
 - Use the Service legally and responsibly  
-- Not exploit or interfere with the bot
-- Not attempt to reverse engineer, decompile, or copy Moon Music’s codebase or backend systems
-- Not spam, flood, or otherwise abuse the bot’s functionality  
+- Not exploit or interfere with the bot  
+- Not attempt to reverse engineer, decompile, or copy Moon Music’s codebase  
+- Not spam, flood, or abuse the bot’s features  
 - Report bugs via the [Support Server](https://discord.gg/wqTgHeJ4Ku)
 
-Violations of these terms may result in **temporary or permanent bans**.
+Violations may result in **temporary or permanent bans**.
 
 ---
 
 ## 7. Account & Security  
-- While no registration is required, your Discord ID may be tied to premium access or settings.  
-- Attempts to bypass security measures, impersonate others, or exploit the bot will result in immediate suspension.
+- Your Discord ID may be associated with premium access or settings.  
+- Attempting to bypass security, impersonate others, or exploit the Service will result in immediate suspension.
 
 ---
 
 ## 8. Data Removal & Portability  
 You may request:
-- Removal of stored data (e.g. User ID, Guild ID, Spotify link)  
-- A copy of your data  
-- Disconnection from third-party integrations  
+- Request a copy of the data associated with your user ID
+- Request deletion of all data related to you
 
 To request this, open a [Ticket](https://discord.com/channels/1114081203721613314/1217133094608568401) in our [Support Server](https://discord.gg/wqTgHeJ4Ku).
 
 ---
 
 ## 9. Termination  
-We reserve the right to suspend or terminate your access to the Service at any time for violating these Terms, including:
+We reserve the right to suspend or terminate your access at any time for violations, including:
 - Abuse of premium features  
-- Use of fraudulent payment methods  
+- Fraudulent payments  
 - Breaching Discord’s rules or these Terms  
 
-Termination will result in loss of access to premium services without refund.
+Termination results in loss of premium access without refund.
 
 ---
 
 ## 10. Limitation of Liability  
-To the fullest extent permitted by law, Moon Music and its developer shall not be held liable for:
-- Service interruptions or downtime  
-- Loss of data  
+To the fullest extent permitted by law, Moon Music and its developer are not liable for:
+- Service interruptions  
+- Loss or corruption of data  
 - User misuse  
-- Third-party service changes (e.g., Spotify API limitations)
+- Changes in third-party APIs
 
-You use the Service at your own risk.
+**You use the Service at your own risk.**
 
 ---
 
 ## 11. Modifications to Terms  
-We may revise these Terms at any time. Material changes will be announced in the [Support Server](https://discord.gg/wqTgHeJ4Ku). Continued use of the Service indicates your acceptance of the updated Terms.
+We may revise these Terms at any time. Material changes will be announced in the [Support Server](https://discord.gg/wqTgHeJ4Ku). Continued use indicates acceptance of the updated Terms.
 
 ---
 
-## 12. Contact  
+## 12. License  
+By using Moon Music, you receive a **limited, non-exclusive, non-transferable, revocable license** to access and use the Service for personal, non-commercial purposes as outlined in these Terms. You may not copy, modify, distribute, or create derivative works from Moon Music or its codebase.
+
+---
+
+## 13. Contact  
 For questions, data requests, or support:
-- Join the [Support Server](https://discord.gg/wqTgHeJ4Ku)  
-- Open a [Ticket](https://discord.com/channels/1114081203721613314/1217133094608568401)  
-- Or contact Moon Carli, the developer and owner of Moon Music  
+- Mail us at `reach.moonmusic@gmail.com`  
+OR
+- Join our [Support Server](https://discord.gg/wqTgHeJ4Ku)  
+- Open a [Ticket](https://discord.com/channels/1114081203721613314/1217133094608568401)
+
+We aim to respond to all inquiries in a timely and respectful manner.
 
 ---
 
-## 13. License
-By using Moon Music, you are granted a limited, non-exclusive, non-transferable, revocable license to access and use the Service for personal, non-commercial use in accordance with these Terms. You may not copy, modify, distribute, or create derivative works from Moon Music or its codebase.
+Please note that by using Moon Music's services, you signify your acceptance of these Terms of Service.
 
----
-
-Moon Music is an independent project and is **not affiliated with or endorsed by Discord Inc.**
+Best regards,
+Moon Music Team
